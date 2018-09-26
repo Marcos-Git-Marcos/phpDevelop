@@ -1,5 +1,3 @@
 <?php
-echo "OLÁ UDEMY"
-
-echo "Teste"
+echo "Olá mundo";
 ?>
